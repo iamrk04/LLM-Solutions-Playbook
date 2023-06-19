@@ -4,7 +4,7 @@ This repository is entirely open source and welcomes contributions! Please read 
 
 ## Issues
 
-All forms of feedback are welcome through [issues](https://github.com/iamrk04/<repo_name>/issues/new)
+All forms of feedback are welcome through [issues](https://github.com/iamrk04/LLM-Solutions-Playbook/issues)
 
 ## Repository Structure
 
@@ -19,8 +19,8 @@ Pull requests are welcome! Please follow the guidelines below to ensure that you
 Clone the repository and install the required Python packages for contributing:
 
 ```terminal
-git clone https://github.com/iamrk04/<repo_name>.git
-cd <repo_name>
+git clone https://github.com/iamrk04/LLM-Solutions-Playbook.git
+cd LLM-Solutions-Playbook
 pip install -r requirements.txt
 ```
 
