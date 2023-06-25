@@ -9,7 +9,7 @@ This repository showcases the transformative capabilities of Large Language Mode
 
 
 ## Requirements
-Python 3.x
+Python 3.11
 Dependencies (listed in [requirements.txt](./requirements.txt))
 
 ## Installation
@@ -17,7 +17,7 @@ Clone this repository to your local machine.
 Install the required dependencies by running `pip install -r requirements.txt`.
 
 ## Usage
-The [notebooks](./notebooks/) directory contains a set of Jupyter notebooks that demonstrate the functionality of this repository. The notebooks are organized by topic and can be run in any order. The notebooks are designed to be self-contained and can be run independently of each other.
+The [notebooks](./notebooks/) directory is organized into sub-directories, each dedicated to a specific topic. You can explore these sub-directories in any order based on your interests. Each sub-directory contains a collection of Jupyter notebooks that delve into the concepts related to its respective topic. The notebooks are sequentially ordered within each sub-directory, so it is recommended to follow the suggested order. The notebooks are designed to be self-contained, allowing you to run them independently without dependencies on other notebooks.
 
 ### Get OpenAI API Key
 To use the OpenAI API, you will need to create an account and obtain an API key. You can create an account [here](https://platform.openai.com/). Once you have created an account, you can find your API key on the [API Keys page](https://platform.openai.com/account/api-keys).
