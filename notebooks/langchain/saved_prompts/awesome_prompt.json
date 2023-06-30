@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "query"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Answer the question based on the context below. If the question cannot be answered using the information provided, answer with \"I don't know\".\nContext: Quantum computing is an emerging field that leverages quantum mechanics to solve complex problems faster than classical computers.\n...\nQuestion: {query}\nAnswer: ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
