@@ -9,3 +9,4 @@ extras
 lib
 *.html
 *.mp4
+temp/

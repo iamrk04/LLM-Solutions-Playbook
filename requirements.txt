@@ -45,6 +45,7 @@ Deprecated==1.2.14
 dill==0.3.6
 docarray==0.34.0
 docker-pycreds==0.4.0
+elevenlabs==0.2.18
 en-core-web-sm==3.5.0
 entrypoints==0.4
 et-xmlfile==1.1.0
@@ -68,6 +69,7 @@ google-auth-httplib2==0.1.0
 googleapis-common-protos==1.59.1
 gpt4all==0.3.6
 greenlet==2.0.1
+gTTS==2.3.1
 h11==0.14.0
 httpcore==0.16.3
 httplib2==0.22.0
@@ -160,6 +162,7 @@ psutil==5.9.0
 pure-eval==0.2.2
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
+PyAudio==0.2.11
 pycparser==2.21
 pycryptodomex==3.18.0
 pydantic==1.10.8
@@ -184,7 +187,7 @@ PyYAML==6.0
 pyzmq==25.1.0
 redlines==0.3.0
 regex==2023.6.3
-requests==2.31.0
+requests==2.28.2
 requests-file==1.5.1
 rfc3986==1.5.0
 rich==13.0.1
@@ -206,6 +209,8 @@ smart-open==5.2.1
 smmap==3.0.5
 sniffio==1.3.0
 sortedcontainers==2.4.0
+sounddevice==0.4.6
+soundfile==0.12.1
 soupsieve==2.3.2.post1
 spacy==3.5.3
 spacy-legacy==3.0.12
