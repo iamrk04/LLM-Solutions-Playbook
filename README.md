@@ -39,6 +39,12 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 ```
 
+### Get Activeloop API Key
+- Signup/Login to [Activeloop](https://www.activeloop.ai/).
+- Create API token from the home page.
+- Copy the API token and paste it in the .env file like this `ACTIVELOOP_TOKEN="<token>"`.
+- Use the similar code as shown above to load your API token from the `.env` file.
+
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. See the [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information.
 
