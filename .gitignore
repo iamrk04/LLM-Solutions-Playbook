@@ -10,3 +10,4 @@ lib
 *.html
 *.mp4
 temp/
+.cache
