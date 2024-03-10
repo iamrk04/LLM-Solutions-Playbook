@@ -53,3 +53,9 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Disclaimer
 Please note that this software is provided as-is, and the author and contributors shall not be held responsible for any consequences or damages arising from its use. Refer to the [DISCLAIMER.md](./DISCLAIMER.md) file for more information.
+
+## Additional Resources
+- [The Novice's LLM Training Guide](https://rentry.org/llm-training)
+- [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization)
+- [LLM Patterns](https://eugeneyan.com/writing/llm-patterns/)
+- [Deep Dive into evals](https://eugeneyan.com/writing/abstractive/)
