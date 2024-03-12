@@ -59,3 +59,5 @@ Please note that this software is provided as-is, and the author and contributor
 - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization)
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns/)
 - [Deep Dive into evals](https://eugeneyan.com/writing/abstractive/)
+- [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
+- [More Design Patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/)
