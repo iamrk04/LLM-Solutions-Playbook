@@ -61,3 +61,4 @@ Please note that this software is provided as-is, and the author and contributor
 - [Deep Dive into evals](https://eugeneyan.com/writing/abstractive/)
 - [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
 - [More Design Patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/)
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
