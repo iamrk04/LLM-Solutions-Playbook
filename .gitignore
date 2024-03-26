@@ -11,3 +11,6 @@ lib
 *.mp4
 temp/
 .cache
+autogpt*
+baby-agi*
+fable-forge*
