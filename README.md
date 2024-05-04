@@ -62,3 +62,4 @@ Please note that this software is provided as-is, and the author and contributor
 - [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
 - [More Design Patterns For Machine Learning Systems](https://eugeneyan.com/writing/more-patterns/)
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
