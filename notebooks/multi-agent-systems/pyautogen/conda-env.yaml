@@ -93,7 +93,7 @@ dependencies:
       - pandas==2.2.2
       - peewee==3.17.6
       - pillow==10.4.0
-      - pyautogen==0.2.35
+      - ag2==0.2.35
       - pydantic==2.8.2
       - pydantic-core==2.20.1
       - pyparsing==3.1.4
